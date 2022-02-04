@@ -12,6 +12,6 @@ let package = Package(name: "LRAtsSDK",
                       ],
                       dependencies: [],
                       targets: [
-                          .binaryTarget(name: "LRAtsSDK", url: "https://ats-sdk-ios-prod.launch.liveramp.com/1.0.0-beta2/LRAtsSDK.zip", checksum: "5e1dbb2a6f3be200fa3bc135ec968540e0b064a665e5b420b0b6a6e750b3dadc")
+                          .binaryTarget(name: "LRAtsSDK", url: "https://ats-sdk-ios-prod.launch.liveramp.com/1.0.0-beta3/LRAtsSDK.zip", checksum: "4c06ad6761060b5b2b9cdf74baf3d7d63017029f5c30957be041d236f1fb3e5f")
                       ]
 )
